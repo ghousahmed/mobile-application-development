@@ -7,7 +7,7 @@
 ## Course Overview
 |                |                     |
 | -------------- | ------------------- |
-| Pre-requisites | Intermediate        |
+| Pre-requisites | Inter, Basic JS     |
 | Duration       | 4 Months - 96 Hours |
 | Quizzes        | 1. JavaScript       |
 |                | 2. TypeScript       |
