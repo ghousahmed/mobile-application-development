@@ -1,6 +1,6 @@
-# Modern Mobile Application Development
+# Mobile Application Development
 
-<img src='./imgs/banner.png'/>
+<img src='banner_smit.png'/>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
 
